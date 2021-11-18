@@ -1,0 +1,57 @@
+.btn-primary {
+    background-color: blueviolet;
+    border-color: blueviolet;
+}
+
+.btn-primary:hover {
+    background-color: #7e00e5;
+    box-shadow: 0 0 0 0.25rem rgb(117 0 217 / 50%);
+    border-color: blueviolet;
+}
+
+.btn-primary:visited, .btn-primary:active {
+    background-color: #7e00e5;
+    border-color: blueviolet;
+}
+
+.btn-primary:focus, .btn-primary:focus-visible {
+    background-color: #7e00e5;
+    border-color: #7e00e5;
+    box-shadow: 0 0 0 0.25rem rgb(117 0 217 / 50%);
+}
+
+.text-primary {
+    color: #7e00e5 !important;
+}
+
+.bi-instagram {
+    font-size: 35px;
+}
+
+.bi-telegram {
+    font-size: 35px;
+}
+
+.bi-facebook {
+    font-size: 35px;
+}
+
+.bi-github {
+    font-size: 35px;
+}
+
+.bi-instagram:hover {
+    color: red !important;
+}
+
+.bi-telegram:hover {
+    color: rgb(0, 119, 255) !important;
+}
+
+.bi-facebook:hover {
+    color: rgb(75, 56, 247) !important;
+}
+
+.bi-github:hover {
+    color: #7e00e5 !important;
+}
